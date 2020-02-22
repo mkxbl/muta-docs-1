@@ -2,7 +2,7 @@
   <a href="https://github.com/nervosnetwork/muta">
     <img src="./static/muta-logo1.png" width="270">
   </a>
-  <h3 align="center">让世界上任何一个人都可以启动属于他们自己的区块链平台</h3>
+  <h3 align="center">让世界上任何一个人都可以搭建属于他们自己的区块链</h3>
   <p align="center">
     <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg"></a>
     <a href="https://github.com/nervosnetwork/muta"><img src="https://img.shields.io/badge/Code-Github-brightgreen.svg"></a>
