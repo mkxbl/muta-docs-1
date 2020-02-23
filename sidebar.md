@@ -12,7 +12,7 @@
 - **Service 介绍**
 	- [Service 开发指南](/service_dev.md)
 	- [Service 示例](/service_eg.md)
-	- [内置 Service 说明](/node_manager_service.md)
+	- [内置 Service 说明](/buildin_service.md)
 - **开发指南**
     - [开发一条 DEX 应用链](dex.md)
 - **接口**
