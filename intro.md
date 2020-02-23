@@ -7,6 +7,8 @@
     <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg"></a>
     <a href="https://github.com/nervosnetwork/muta"><img src="https://img.shields.io/badge/Code-Github-brightgreen.svg"></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
+     <a href="https://discord.gg/QXkFT88"><img src="https://img.shields.io/discord/674846745607536651?logo=discord"
+    alt="chat on Discord"></a>
     <a href="https://github.com/nervosnetwork/muta"><img src="https://img.shields.io/github/stars/nervosnetwork/muta.svg?style=social"></a>
     <a href="https://github.com/nervosnetwork/muta"><img src="https://img.shields.io/github/forks/nervosnetwork/muta.svg?style=social"></a>
   </p>

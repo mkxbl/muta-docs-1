@@ -54,11 +54,12 @@
     }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-    new Crate({
+  const crate = new Crate({
       server: '674846745607536651',
       channel: '674846746064453642',
       shard: 'https://disweb.dashflo.net'
     })
+    crate.notify('Need a hand? Leave a message!')
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
