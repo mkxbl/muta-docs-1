@@ -1,8 +1,10 @@
-# Metadata Service
+# 内置 Service 说明
 
 ## 概述
 
-Metadata Service 负责存储链的元数据信息，包括：
+目前 Muta 框架仅内置一个 Service - Metadata Service，来存储链的元数据信息，以支持链的运营方在起链前对链的相关信息进行配置。
+
+这些元数据包括：
 
 ```rust
 pub struct Metadata {
@@ -29,6 +31,7 @@ pub struct ValidatorExtend {
 通过 Metadata Service 可以读取这些信息，接口如下： 
 
 ## 接口
+
 ### 读取链元数据信息
    
 ```rust
@@ -50,3 +53,5 @@ query get_metadata{
   }
 }
 ```
+
+

@@ -23,7 +23,11 @@ Muta 是一个高度可定制的高性能区块链框架。它内置了具有高
 
 开发者可以基于 Muta 定制开发 PoA、PoS 或者 DPoS 链，并且可以使用不同的经济模型和治理模型进行部署。开发者也可以基于 Muta 来开发不同的应用链（例如 DEX 链），以实现某种特定的业务逻辑。
 
-Muta 的核心理念是使一个区块链状态转换的开发尽可能的灵活和简便，也就是说在降低开发者搭建高性能区块链障碍的同时，仍然最大限度地保证其灵活性以方便开发者可以自由定制他们的协议。因此，作为一个高度可定制的高性能区块链框架，Muta 提供了一个区块链系统需要有的基础功能部分，开发者可以自由定制链的功能部分。
+Muta 的核心理念是使一个区块链状态转换的开发尽可能的灵活和简便，也就是说在降低开发者搭建高性能区块链障碍的同时，仍然最大限度地保证其灵活性以方便开发者可以自由定制他们的协议。因此，作为一个高度可定制的高性能区块链框架，Muta 提供了一个区块链系统需要有的基础核心组件，开发者可以自由定制链的功能部分。
+
+## 快速开始！
+
+快速搭建一条简单的链并尝试简单的交互，请参考[快速开始](./getting_started)。
 
 ## Muta 提供哪些基础核心组件？
  
@@ -32,9 +36,9 @@ Muta 框架提供了搭建一个分布式区块链网络所需的全部核心组
 * [交易池](./transaction_pool.md)
 * [P2P 网络](./network.md)
 * [共识](./overlord.md)
-* 数据存储
+* [存储](./storage.md)
 
-## 开发者需要自己实现的部分
+## 开发者需要自己实现哪些部分？
 
 开发者可以通过开发 Service 来定制链的功能部分。
 
@@ -45,7 +49,19 @@ Service 是 Muta 框架中用于扩展的抽象层，用户可以基于 Service 
 * [Service 开发指南](./service_dev.md)
 * [Service 示例](./service_eg.md)
 
+## 谁在使用 Muta？
+
+<p align="left">
+  <a href="https://github.com/nervosnetwork/muta">
+    <img src="./static/user/s_huobichain.jpg" width="150">
+  </a>
+</p>
+
+您的项目使用的是 Muta 吗？欢迎在这里添加您项目的 logo 和链接，请点击顶部的 `Edit Document` 提交 Pull Request:tada:
+
 ## 贡献 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+#### 提交 PR
 
 - :fork_and_knife:Fork 这个项目并 clone 到本地
 - :twisted_rightwards_arrows:新建一个分支: `git checkout -b new-branch`
@@ -54,8 +70,14 @@ Service 是 Muta 框架中用于扩展的抽象层，用户可以基于 Service 
 - :rocket:推送你的分支: `git push origin new-branch`
 - :tada:提交 Pull Request
 
-或者提交一个[issue](https://github.com/nervosnetwork/muta/issues) 
+#### 提交 Issue
 
-- 欢迎任何有帮助性的建议:stuck_out_tongue_winking_eye:
+- 点击 [issue](https://github.com/nervosnetwork/muta/issues)。欢迎任何有帮助性的建议:stuck_out_tongue_winking_eye:
+
+#### 翻译文档
 
 如果愿意参与翻译文档，请到未翻译的英文文档页面上方点击 edit on GitHub 可以找到源文件，直接修改源文件，并且提 PR，步骤同上面的 PR 步骤。
+
+## 加入我们!
+
+作为一个创业团队，我们还在不断招募优秀的开发者 :heart:，并且在世界末日到来之前我们会一直招募，前端、后端、区块链开发工程师等等！详情参考[工作描述](https://github.com/zhouyun-zoe/Workflow/issues/3)。
