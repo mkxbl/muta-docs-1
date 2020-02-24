@@ -57,7 +57,7 @@ Service 是 Muta 框架中用于扩展的抽象层，用户可以基于 Service 
   </a>
 </p>
 
-您的项目使用的是 Muta 吗？欢迎在这里添加您项目的 logo 和链接，请点击顶部的 `Edit Document` 提交 Pull Request:tada:
+您的项目使用的是 Muta 吗？欢迎在这里添加您项目的 logo 和链接，请点击顶部的 `Edit Document` ，修改本文档的相关内容，并提交 Pull Request 即可:tada:
 
 ## 贡献 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
