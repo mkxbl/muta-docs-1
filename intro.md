@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">让世界上任何一个人都可以搭建属于他们自己的区块链</h3>
   <p align="center">
-    <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg"></a>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
     <a href="https://github.com/nervosnetwork/muta"><img src="https://img.shields.io/badge/Code-Github-brightgreen.svg"></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
      <a href="https://discord.gg/QXkFT88"><img src="https://img.shields.io/discord/674846745607536651?logo=discord"
